@@ -40,7 +40,7 @@
 #endif
 
 
-#include <nrfx_spim.h>
+#include "drivers/include/nrfx_spim.h"
 #include "prs/nrfx_prs.h"
 #include <hal/nrf_gpio.h>
 
